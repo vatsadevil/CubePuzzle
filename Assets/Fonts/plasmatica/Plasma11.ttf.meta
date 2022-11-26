@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f8c014266c3a49afb6e04c43f753174
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Plasmatica Shaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e60baf1bad34b49a6a1361eadc382690, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

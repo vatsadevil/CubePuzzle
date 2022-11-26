@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 82ddbf49fffbd4c06a82c862f26a19aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Plasmatica Ext
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61b78e7fb179843168d0c6caabc5224d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

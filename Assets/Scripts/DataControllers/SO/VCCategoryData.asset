@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93502295ffa64cd480b26e061c2f55c, type: 3}
+  m_Name: VCCategoryData
+  m_EditorClassIdentifier: 
+  CubeVisuals:
+  - CategoryName: COINS
+    CubeVisuals:
+    - {fileID: 11400000, guid: 11c8df8736b1240fb9959e724806c043, type: 2}
+    - {fileID: 11400000, guid: 56eaf99cb84da41daa5e46bb5eea6119, type: 2}
+    - {fileID: 11400000, guid: 525f2f0f04abb4eafa62aeeca432517a, type: 2}
+    - {fileID: 11400000, guid: 36180c2376b1343c2a1c6b20f381a5f5, type: 2}
+    - {fileID: 11400000, guid: da82eed8d494b4954aa6e567a8a22faa, type: 2}
+    - {fileID: 11400000, guid: 7a2d98bff17b14c15be43ed0155c0555, type: 2}
+    - {fileID: 11400000, guid: 01e5be45290974b61afc805edf5a4379, type: 2}
+    - {fileID: 11400000, guid: 14e3131ad72f644abad5fd0eca7c76cd, type: 2}
+    - {fileID: 11400000, guid: 44d1d530e8aa04a8c87e34cafc913d7c, type: 2}
+    - {fileID: 11400000, guid: 83df6c8d5da9f44c59b78f1cd7e47ce5, type: 2}
+  - CategoryName: ADS
+    CubeVisuals: []
+  - CategoryName: PREOGRESS
+    CubeVisuals: []
+  - CategoryName: GIFT_BOX
+    CubeVisuals: []
